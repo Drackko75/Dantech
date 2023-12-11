@@ -71,6 +71,10 @@ body {
     font-weight: 400;
 }
 
+.alto-img{
+    width: 10% !important;
+}
+
 .fw-bold {
     font-weight: 700;
 }
